@@ -1,0 +1,17 @@
+xgboost==1.0.2
+unicode==2.6
+snowballstemmer==1.2.1
+scikit-learn==0.22.2.post1
+pandas==0.25.3
+numpy==1.18.1
+networkx==2.1
+nltk==3.2.5
+python-Levenshtein==0.12.0
+scipy==1.4.1
+pdfminer.six==20200517
+torch==1.9.0+cu102
+torchvision==0.10.0+cu102
+click==7.0
+ruamel.yaml==0.16.5
+joblib==0.13.2
+logzero==1.5.0

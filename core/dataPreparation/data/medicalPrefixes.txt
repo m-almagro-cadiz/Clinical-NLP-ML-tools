@@ -1,0 +1,803 @@
+a	contrario
+ab	separación
+abdomino	abdomen
+abdomin	abdomen
+acanto	espinado
+acro	más_alto
+actino	rayo_de_luz
+acu	oído
+acui	agua
+ad	proximidad
+adeno	glándula
+adipo	grasa
+aero	aire
+alo	distinto
+al	distinto
+algesi	dolor
+algesia	dolor
+algo	dolor
+ambi	ambos
+ambli	obtuso
+amigdalo	amígdalas	almendra
+amigdal	amígdalas	almendra
+an	contrario
+ana	atrás
+andro	hombre
+anemo	viento
+anfi	alrededor
+anfo	alrededor
+angi	vaso
+angio	vaso
+aniso	desigual
+anquilo	encorvado
+anquil	encorvado
+ante	delante
+anter	delante
+antero	delante
+anti	contrario
+antropo	hombre
+apici	ápice
+apic	ápice
+apo	separación
+aracn	araña
+aracno	araña
+arqui	iniciar
+arque	iniciar
+arreno	macho
+artr	articulación
+artro	articulación
+astro	estrella
+atelo	incompleto
+atel	incompleto
+atero	graso
+ater	graso
+atreto	imperforado
+atret	imperforado
+auri	oro
+aut	propio
+auto	propio
+auxo	crecimiento
+axio	eje
+axi	eje
+axo	eje
+bacilo	bastoncillo
+balano	glande	bellota
+bar	peso
+baro	peso
+barb	barbitúrico
+basi	base
+basio	base
+bato	profundidad
+bat	profundidad
+bi	dos
+bili	bilis
+bio	vida
+bis	dos
+blast	germen
+blasto	germen
+bleno	mucosidad
+botrio	ulcera
+bradi	lentitud
+branqui	branquias
+branquio	branquias
+braqui	corto
+braquio	brazo
+brefo	embrión
+bromato	alimento
+bronco	bronquios
+buco	bucal
+caco	malo
+calici	caliz_de_flor
+cali	bello
+calo	bello
+carcino	cáncer
+cardio	corazón
+cario	núcleo
+cata	abajo
+caud	cola
+caudo	cola
+cef	antibiótico_derivado_del_ácido_cefalosporánico
+cefal	cabeza
+cefalo	cabeza
+celo	vientre
+cel	vientre
+cele	tumor
+ceno	nuevo	vacio	común
+cen	nuevo	vacio	común
+cent	cien
+centi	cien
+cerato	córnea	cuerno
+cerat	córnea	cuerno
+cervic	cuello
+ciano	azul
+cian	azul
+ciclo	ciclo	ojo
+cifo	curvatura
+cigo	unión
+cimo	fermento
+cino	perro
+cin	perro
+cinesi	movimiento
+cine	movimiento
+circum	alrededor
+circun	alrededor
+cirso	variz
+cist	vejiga	quiste
+cisto	vejiga	quiste
+cito	célula
+cleido	clavícula
+cleid	clavícula
+clino	inclinación
+clor	verde
+cloro	verde
+colo	colon
+cole	bilis
+colp	vagina
+colpo	vagina
+condro	cartílago
+condr	cartílago
+contra	contrario
+copro	excremento
+cordi	corazón
+core	pupila
+coreo	pupila
+corio	piel
+cortico	corticosteroide
+cortic	corticosteroide
+costo	costilla
+coxo	cadera
+cox	cadera
+crico	anillo
+cric	anillo
+crio	frio
+cripto	oculto
+cris	oro
+criso	oro
+cromat	color
+cromato	color
+cromo	color
+crono	tiempo
+cruci	cruz
+dacri	lágrima
+dacrio	lágrima
+dactilo	dedo
+dactil	dedo
+de	contrario
+deca	diez
+deci	diez
+delo	visible
+demo	pueblo
+dem	pueblo
+dendro	ramificación
+dendri	ramificación
+dendr	ramificación
+densi	grueso	lento
+dento	diente
+denti	diente
+derm	piel
+dermo	piel
+dermato	piel
+des	contrario
+deuter	segundo
+deuto	segundo
+deutero	segundo
+dextro	derecha
+di	doble
+dia	a_través
+diali	separar
+dico	en_dos
+digit	dedo
+digito	dedo
+dipl	doble
+diplo	doble
+dips	sed
+dipso	sed
+dis	dificultad
+dolico	largo
+drom	andar
+dromo	andar
+eco	hogar
+ecto	fuera
+ect	fuera
+edaf	suelo
+edafo	suelo
+elaio	aceite
+elayo	aceite
+electro	electricidad	ámbar
+electr	electricidad	ámbar
+eleo	aceite
+elitro	vagina
+en	dentro
+enantio	contrario
+endo	dentro
+end	dentro
+endeca	once
+ent	dentro
+ento	dentro
+entero	intestino
+enter	intestino
+epi	sobre
+episio	vulva
+equi	igualdad
+equin	erizo
+equino	erizo
+ergo	trabajo
+erg	trabajo
+eritro	rojo
+eritr	rojo
+erot	amor
+eroto	amor
+escafo	barco
+escaf	barco
+escato	excremento
+escia	sombra
+escie	sombra
+esclero	duro
+escler	duro
+escut	escudo
+escuti	escudo
+esfen	cuña
+esfeno	cuña
+esfero	esfera
+esfer	esfera
+esfigmo	pulso
+esfigm	pulso
+eso	dentro
+espasmo	convulsión
+espermat	esperma
+espermato	esperma
+espilo	mancha
+espiro	respirar
+esplacno	víscera
+esplacn	víscera
+espleno	bazo
+esplen	bazo
+espondil	vértebra
+espondilo	vértebra
+espor	semilla
+esporo	semilla
+esquisto	fisura
+esquizo	división
+estafil	úvula
+estafilo	úvula
+esteat	sebo
+estear	sebo
+estearo	sebo
+esteato	sebo
+esten	estrecho
+esteno	estrecho
+esterco	excremento
+estereo	sólido
+esteto	pecho
+estomat	boca
+estomato	boca
+stomat	boca
+stomato	boca
+estr	estrógeno
+etio	causa
+etno	raza
+eu	bueno
+euri	ancho
+ex	fuera	privación
+excito	excitar
+exo	fuera
+extra	fuera	adición
+facio	cara
+faco	forma_de_lente
+fago	comer
+falci	hoz
+falco	hoz
+fanero	visible
+faringo	faringe
+faring	faringe
+farmac	medicamento
+farmaco	medicamento
+fasci	banda
+fas	habla
+faso	habla
+fenamato	antiinflamatorio_derivado_del_ácido_antranílico
+fibr	tejido_fibroso
+fibro	tejido_fibroso
+fico	alga
+fic	higo
+fili	hilo
+fil	hoja
+filo	amante	raza
+fisi	hendido
+fisio	procesos_naturales
+fito	planta
+fleb	vena
+flebo	vena
+folio	hoja
+fon	voz
+fono	voz
+foro	movimiento
+foto	luz
+freno	diafragma	mente
+fren	diafragma	mente
+fungi	hongo
+fusi	huso
+gala	leche
+galacto	leche
+galvano	corriente_galvánica
+gamo	unión
+gastro	estómago
+gastr	estómago
+genio	mentón
+geno	engendrar
+geo	tierra
+geront	vejez
+geronto	vejez
+gest	esteroide_progestágeno
+gimno	desnudo
+gimn	desnudo
+ginec	mujer
+gino	mujer
+gin	mujer
+gineco	mujer
+giro	círculo
+glauco	verde
+glico	dulce
+glic	dulce
+glomeru	pelota
+glomer	pelota
+gloso	lengua
+glos	lengua
+gluc	dulce
+gluco	dulce
+gnato	mandíbula
+gnat	mandíbula
+gone	semilla
+gon	semilla
+gona	rodilla
+gonf	clavo
+gonfo	clavo
+gonio	ángulo
+gono	semilla
+grafo	escritura
+graf	escritura
+gravi	gravedad
+hal	sal
+halo	sal
+haplo	simple
+hapl	simple
+hapto	unir
+hebo	pubertad
+hebe	pubertad
+hecto	cien
+helico	espiral
+helio	sol
+helminto	gusano
+hema	sangre
+hemat	sangre
+hemato	sangre
+hemo	sangre
+hem	sangre
+hemi	mitad
+hepat	hígado
+hepato	hígado
+hepta	siete
+hetero	otro
+hexa	seis
+hialo	cristal
+hidr	agua	sudor
+hidro	agua	sudor
+higio	salud
+higro	humedad
+hilo	materia
+himeno	membrana
+hio	cerdo
+hiper	sobre	exceso	superioridad
+hipno	sueño
+hipo	debajo	deficiencia
+hipsi	alto
+hipso	altura
+histero	útero	matriz
+hister	útero	matriz
+histo	tejido
+histio	tejido
+holo	todo
+homeo	semejante
+homo	semejante
+icno	huella	traza
+ictero	amarillo
+icter	amarillo
+icti	pez
+ictio	pez
+ideo	idea
+ide	idea
+idio	propio
+idi	propio
+ile	intestino
+ileo	intestino
+ilio	hueso_ilion
+in	contrario	dentro
+infra	debajo
+inter	en_medio
+intra	dentro
+intro	dentro
+irido	iris
+isco	retener
+iso	igual
+isquio	hueso_isquion
+kilo	mil
+lacrimo	lágrima
+lact	leche
+lacto	leche
+lagen	botella
+lagena	botella
+lago	liebre
+laparo	abdomen
+lapar	abdomen
+laringo	laringe
+latero	lado
+later	lado
+leont	león
+leonto	león
+lepido	escama
+lepro	escamoso
+lepto	delgado
+lept	delgado
+leuc	blanco
+leuco	blanco
+levo	izquierda
+lico	lobo
+lic	lobo
+lien	bazo
+lieno	bazo
+limno	lago
+limn	lago
+limo	hambre
+linfo	agua
+linf	agua
+lio	liso
+lipo	grasa	ausencia
+lip	grasa	ausencia
+lis	disolución
+liso	disolución
+lito	piedra
+lit	piedra
+lof	cresta
+lofo	cresta
+logo	ciencia
+log	ciencia,
+lox	oblicuo
+loxo	oblicuo
+lumin	luz
+lumino	luz
+macro	grande
+macr	grande
+malaco	blando
+masto	pezón	mama
+mast	pezón	mama
+mecan	mecánico
+mecano	máquina
+megalo	grande
+mega	grande
+mel	música
+melo	música
+melano	negro
+melan	negro
+meli	miel
+mening	membrana
+meningo	membrana
+men	mes
+meno	mes
+mero	parte
+mes	medio
+meso	medio
+meta	transformación	más_allá
+metr	útero	matriz
+metro	útero	matriz
+micet	hongo
+mic	hongo
+mico	hongo
+miceto	hongo
+micro	pequeño
+mielo	médula
+miel	médula
+mili	mil
+mi	músculo
+mio	músculo
+miso	odiar
+mis	odiar
+mito	hilo
+mixo	mucosidad
+mix	mucosidad
+mogi	dificultad
+mono	único
+mon	único
+morf	forma
+morfo	forma
+muci	moco
+multi	mucho
+narco	entumecimiento	letargo	estupor
+naso	nariz
+necro	muerto
+necros	muerto
+nefel	nube
+nefelo	nube
+nefro	riñón
+nefr	riñón
+nemato	hilo
+nemo	memoria
+neo	nuevo
+neso	isla
+nes	isla
+neumato	aire
+neuma	aire
+neumo	pulmón
+neuro	nervio	neuronas
+neur	nervio	neuronas
+nicto	noche
+noct	noche
+nocti	noche
+nict	noche
+nomo	ley
+noso	enfermedad
+not	espalda	dorso
+noto	espalda	dorso
+ocro	amarillo
+oculo	ojo
+ocul	ojo
+oculos	ojo
+odin	dolor
+odino	dolor
+odont	diente
+odonto	diente
+ofi	reptil
+ofio	reptil
+oftalm	ojo
+oftalmo	ojo
+oleo	aceite
+ole	aceite
+oligo	poca_cantidad
+omo	hombro	crudo
+onco	tumor
+onfal	ombligo
+onfalo	ombligo
+onico	uña
+onic	uña
+onir	sueño
+oniro	sueño
+onomato	nombre
+onto	ser
+ont	ser
+oo	óvulo	huevo
+oofor	ovario
+ooforo	ovario
+opisto	detrás
+opo	jugo	savia
+opso	manjar
+opt	visible
+opto	visible
+orexi	apetito
+oro	boca
+orqui	testículo
+orquio	testículo
+orro	suero
+orto	recto	regular	normal
+osfresio	olores
+osm	olor
+osmo	impulso
+osteo	hueso
+oto	oído
+ot	oído
+ovo	huevo
+oxi	ácido	agudo
+paido	niño
+palato	paladar
+paleo	antiguo
+pali	repetición
+palin	repetición
+pant	todo
+pan	todo
+panto	todo
+paqui	denso	grueso
+para	junto_a	en_comparación_de	fuera_de
+pare	junto_a	en_comparación_de	fuera_de
+paro	junto_a	en_comparación_de	fuera_de
+pari	junto_a	en_comparación_de	fuera_de
+parteno	virgen
+parten	virgen
+pato	enfermedad
+pauci	escasa_cantidad
+pectini	peine
+pectin	peine
+pedi	pie
+ped	niño
+pedo	niño
+pelico	pelvis
+pelic	pelvis
+pelv	pelvis
+pelvi	pelvis
+peni	pluma
+penta	cinco
+peps	digestión
+pepso	digestión
+pepsia	digestión
+per	a_través
+peri	alrededor
+pero	deformación
+picn	denso	espeso	frecuente
+picno	denso	espeso	frecuente
+picro	amargo	picante
+picr	amargo	picante
+pielo	cavidad	pelvis
+piel	cavidad	pelvis
+pigo	nalga
+pig	nalga
+pi	pus
+pio	pus
+piro	fuego
+pir	fuego
+pireto	fiebre
+piret	fiebre
+plagio	oblicuo
+plas	formación
+plaso	formación
+plasma	formación
+plasm	formación
+plasto	plaqueta	germen
+plati	ancho
+pleo	más
+ples	golpear
+plesi	próximo
+pleuro	lado
+pleur	lado
+pluri	mucho
+pluto	rico
+pneu	aire
+pne	aire
+pneumo	aire	pulmón
+pneumono	aire	pulmón
+pneum	aire	pulmón
+podo	pie
+pod	pie
+poli	muchos
+pono	fatiga
+pos	después_de
+post	después_de
+poster	después_de
+postero	después_de
+pre	ante
+prim	primero
+primo	primero
+pro	antes
+procto	ano
+proct	ano
+prosopo	cara
+proto	primero
+prot	primero
+pseudo	falso
+psico	mente
+psic	mente
+psicro	frío
+pueri	niño
+queilo	labio
+queil	labio
+querat	córnea	cuernos
+quera	córnea	cuernos
+querato	córnea	cuernos
+quil	jugo
+quilo	jugo
+quimi	mezcla_de_jugos
+quimio	mezcla_de_jugos
+quine	movimiento
+quinesi	movimiento
+quinesio	movimiento
+quiro	mano
+quist	vejiga	quiste
+rabdo	bastón	varilla
+radio	rayo	radio
+re	de_nuevo	detrás	contrario
+reno	riñón
+reni	riñón
+reo	corriente	flujo
+retro	hacia_atrás
+rino	nariz
+rin	nariz
+riz	raíz
+rizo	raíz
+rodo	color_rosa
+sacar	azúcar
+sacaro	azúcar
+salping	trompa
+salpingo	trompa
+sapro	putrefacto
+sarco	carne
+semi	mitad
+semio	signo
+septe	tabique
+septo	tabique
+sero	suero
+sesqui	uno_y_medio
+seudo	falso
+sex	seis
+sialo	saliva
+sial	saliva
+sic	alma
+sico	alma
+sidero	hierro
+sifil	sífilis
+sifilo	sífilis
+sim	junto_con
+sin	junto_con
+sindesm	unión
+sindesmo	unión
+sinistro	izquierda
+sinistr	izquierda
+sinus	seno
+siring	fístula	tubo	trompa
+siringo	fístula	tubo	trompa
+siti	alimento
+sitio	alimento
+soma	cuerpo
+somato	cuerpo
+somn	sueño
+somno	sueño
+somni	sueño
+sub	inferior
+super	exceso	superioridad
+supra	sobre
+talo	talón
+tanato	muerte
+taqui	rápido
+tecno	niño	arte	técnica
+telo	pezón	fin	lejos
+tele	pezón	fin	lejos
+tendo	tendón
+ter	tres
+terato	monstruo
+termo	calor
+term	calor
+tetra	cuatro
+tifl	porción_ciega_del_intestino
+tiflo	porción_ciega_del_intestino
+tifo	tifus	humo	estupor
+timo	mente	timo
+tio	azufre
+tiro	glándula_tiroides
+tisio	tisis
+tisi	tisis
+toco	parto
+tomo	segmento
+tono	tensión
+top	lugar
+topo	lugar
+torac	tórax
+toraco	tórax
+torazo	tórax
+toxi	veneno
+toxo	veneno
+trans	a_través_de	a_la_otra_parte_de
+traqu	vía_aérea
+traqueo	tráquea
+traque	tráquea
+traquelo	cuello	nuca
+traquel	cuello	nuca
+tri	tres
+trico	cabello
+trof	nutrición
+trofo	nutrición
+trombo	coágulo
+tromo	temblor
+ulo	encía
+ultra	más_allá
+uni	uno
+uro	orina	sistema_renal
+ur	orina	sistema_renal
+urano	cielo
+vacci	vacunas
+ventr	vientre
+ventro	vientre
+vermi	gusano
+xant	color_amarillo
+xanto	color_amarillo
+xeno	extraño
+xero	seco
+xilo	madera
+yatro	médico
+yuxta	junto_a
+zoo	animal
+zo	animal

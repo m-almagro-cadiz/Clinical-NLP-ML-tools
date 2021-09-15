@@ -1,0 +1,188 @@
+aco	antiinflamatorio_no_esteroideo_ibufenac
+ac	antiinflamatorio_no_esteroideo_ibufenac
+afil	fármaco_inhibidor_de_la_fosfodiesterasa
+agogo	derivación
+agra	dolor_agudo
+algia	dolor
+antel	fármaco_antihelmintico
+asa	enzimas
+asona	fármaco_corticoesteroide
+azol	fármaco_compuesto_heterocíclico_aromático
+bamato	ansiolítico_carbamatos
+bital	ácido_barbitúrico
+barbital	ácido_barbitúrico
+bicina	agente_citotóxico_utilizado_como_fármaco_antineoplásico
+butazona	analgésicos_antiinflamatorios_no_esteroidales_fenilbutazona
+caína	anestésico_local
+cardia	corazón
+cele	tumor	tumefacción	hernia
+celo	hueco
+centesis	punción
+ciclina	antibiótico_tetraciclinas
+cidina	antibióticos_naturales
+cilina	antibiótico_derivado_del_ácido_6-aminopenicilánico
+cito	célula
+clisis	irrigación
+colia	bilis
+crina	fármacos_derivados_de_la_acridina
+dapsona	derivados_de_la_dapsona
+dermo	piel
+dermia	piel
+dipsia	sed
+doxia	opinión
+drina	fármaco_simpaticomimético
+ectasia	dilatación
+edro	cara
+emesis	vomitar
+emesia	vomitar
+emia	sangre
+eridina	analgésicos_meperidina
+espasmo	convulsión
+fagia	comer
+fago	comer
+fasia	habla
+fano	claro
+fármaco	medicamento
+fico	hacer_alguna_cosa
+filia	atracción
+filio	atracción
+fisis	nacer	brotar
+fito	planta
+floro	flor
+fobo	miedo
+fobia	miedo
+fonía	voz	sonido
+fono	voz	sonido
+foria	desviación_de_los_ojos
+foro	movimiento
+fragma	tabique
+frenia	mente
+fugal	alejado
+fugo	huir
+gamia	unión
+genia	generación	reproducción
+génico	generación	reproducción
+génica	generación	reproducción
+génesis	generación	reproducción
+gen	producir	engendrar
+geno	producir	engendrar
+ginia	mujer
+gino	mujer
+glosia	lengua
+gnosia	conocimiento	percepción
+gnosis	conocimiento	percepción
+grado	avanzar
+grafo	aparato
+grafía	escribir
+grafia	escribir
+grama	letra
+iasis	estado_resultante
+iatra	médico
+iátrico	médico
+iátrica	médico
+ide	aspecto
+ido	aspecto
+ismo	estado
+itis	inflamación
+latero	lado
+lisis	disolución	actividad
+listesis	desplazamiento
+logo	ciencia
+logia	ciencia
+mancia	adivinación
+manía	locura	preocupación_excesiva
+mano	locura	preocupación_excesiva
+malacia	reblandecimiento
+megalia	grande
+melo	miembro
+melia	miembro
+metro	instrumento
+mero	parte
+mera	parte
+metacina	antiinflamatorio_indometacina
+metría	medida
+miceto	hongo
+micete	hongo
+mnesia	memoria
+morfo	forma
+nea	respirar
+nomía	ley
+oid	semejanza
+oideo	forma
+oide	forma
+ólogo	persona_que_ejerce
+oma	tumor	tumefacción
+ope	ojo
+opía	ojo
+opsia	visión
+opsis	visión
+orexia	apetito
+orquid	testículos
+orquido	testículos
+osis	producción	aumento	invasión
+osmia	olor
+para	parir
+paro	parir
+patía	enfermedad
+penia	nivel_bajo
+pepso	digerir
+pepsia	digerir
+plasia	formar	creación_de_nuevas_células
+plasma	formación	sangre
+plastia	formar	moldear
+plejía	parálisis
+plegia	parálisis
+plegico	parálisis
+pnea	respirar
+poyesis	formación_de
+prexia	fijación
+pterigio	aleta
+ptero	ala
+ptisis	escupir
+ptisia	escupir
+ptosis	caída
+rafia	sutura
+rrafia	sutura
+rragia	brotar	romper
+ragia	brotar	romper
+rrea	fluir
+rea	fluir
+rrexis	ruptura
+rexis	ruptura
+rritmia	ritmo
+ritmia	ritmo
+scele	pierna
+scelia	pierna
+sclero	duro
+scler	duro
+scopia	observar
+scopio	observar
+sperma	esperma
+sfigmia	pulso
+sis	estado
+sol	dispersión_coloidal
+somatico	cuerpo
+soma	cuerpo
+stático	estancamiento
+stasis	estancamiento
+stasia	estancamiento
+stato	estancamiento
+estático	estancamiento
+estasis	estancamiento
+estasia	estancamiento
+estato	estancamiento
+taxis	tropismo	tactismo
+taxia	tropismo	tactismo
+terapia	tratamiento
+timia	ánimo	sentido	mente
+ectomía	extirpación
+ostomía	abertura
+otomía	incisión
+tomía	corte	separación
+tomo	cortante
+tripsi	aplastamiento
+trofia	alimentación
+ultación	acto_de
+uria	orina
+vir	fármaco_antivírico	fármaco_antihepatítico
+voro	devorar

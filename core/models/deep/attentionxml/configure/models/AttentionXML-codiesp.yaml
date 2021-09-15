@@ -1,0 +1,29 @@
+name: AttentionXML
+
+level: 2
+k: 32
+top: 10
+
+model:
+  hidden_size: 512
+  layers_num: 1
+  linear_size: [512, 256]
+  dropout: 0.5
+  emb_trainable: True
+
+cluster:
+  max_leaf: 32
+  eps: 1e-4
+  levels: [8]
+
+train:
+  [{batch_size: 16, nb_epoch: 10, swa_warmup: 2},
+   {batch_size: 16, nb_epoch: 10, swa_warmup: 1}]
+
+valid:
+  batch_size: 16
+
+predict:
+  batch_size: 16
+
+path: models

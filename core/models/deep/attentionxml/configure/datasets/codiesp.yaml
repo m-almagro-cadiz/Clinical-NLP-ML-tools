@@ -1,0 +1,24 @@
+name: codiesp
+
+train:
+  sparse: results/models/attentionxml/data/train.txt
+  texts: results/models/attentionxml/data/train_texts.npy
+  labels: results/models/attentionxml/data/train_labels.npy
+
+valid:
+  size: 50
+
+test:
+  texts: results/models/attentionxml/data/test_texts.npy
+
+embedding:
+  emb_init: results/models/attentionxml/data/emb_init.npy
+  vocab_size: 2477
+
+output:
+  res: results
+
+labels_binarizer: results/models/attentionxml/data/labels_binarizer
+
+model:
+  emb_size: 300
