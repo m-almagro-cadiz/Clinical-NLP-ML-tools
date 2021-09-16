@@ -30,10 +30,10 @@ logzero==1.5.0
 
 * **Pre-processing pipeline**
 * **BoW feature extraction module**
-* **OvR wrapper**
-* **HAN model**
-* **RCNN model**
-* **AttentionXML model**
+* **OvR wrapper**: designed for traditional models
+* **HAN model**: designed for GPUs
+* **RCNN model**: designed for GPUs
+* **AttentionXML model**: designed for GPUs
 * **Evaluation module**
 
 ## Examples
